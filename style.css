@@ -1,0 +1,432 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background: linear-gradient(to bottom, #161616, #232323);
+
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+
+.bricks--container {
+    overflow-x: hidden;
+}
+
+#rd-section-m7xf29uo {
+    overflow-x: hidden;
+}
+
+#rd-row-m7xf29up .bricks--column>div {
+    padding: 0;
+}
+
+
+.gradient-text {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 110px;
+    font-weight: 600;
+    background: linear-gradient(to bottom, #858585 5%, white 95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home-wave-img {
+    width: 100vw;
+    margin-top: -105px;
+}
+
+.to-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ia-assistent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ai-assistent>svg {
+    width: 30%;
+    height: fit-content;
+}
+
+.geni-logo {
+    text-align: center;
+}
+
+.geni-logo>img {
+    width: 30%;
+}
+
+#rd-row-m7w4vy99,
+#rd-row-joq3m2vn {
+    margin: 0;
+}
+
+
+#rd-column-joq3m2vo>div {
+    width: 900px;
+}
+
+.purple-text {
+    -webkit-text-fill-color: #8B31FF;
+}
+
+.purple-span {
+    color: #8B31FF;
+    font-weight: 700;
+}
+
+.ia-paragraph {
+    width: 600px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#rd-column-joq3m2vu {
+    min-width: 600px;
+}
+
+#rd-row-joq3m2vo {
+    min-width: 1700px;
+}
+
+#rd-section-joq3m2vm {
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#rd-row-m7xf29up {
+    margin: 0;
+}
+
+
+
+.computer-img {
+    max-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+}
+
+.computer-img>svg {
+    width: 100%;
+    height: fit-content;
+}
+
+.whatis-text {
+    font-family: Montserrat;
+    width: 70%;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#rd-column-joq3m2vo {
+    max-width: 600px;
+
+}
+
+#rd-html-m7w707y0 {
+    width: 80%;
+}
+
+.bricks--section>div {
+    max-width: 1600px;
+    min-width: 1400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+#rd-column-joq3m2vu {
+    max-width: 400px;
+    min-width: 0px;
+}
+
+.benefits {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.benefits>img {
+    width: 30%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(250px, 550px));
+    gap: 20px;
+    padding: 20px;
+    max-width: 1800px;
+    margin: 0 auto;
+}
+
+.card {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.card>svg {
+    width: 100%;
+    height: fit-content;
+}
+
+.ceo-report {
+    margin-top: 200px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ceo-text {
+    width: 60%;
+    padding-left: 100px;
+}
+
+.ceo-img {
+    width: 40%;
+}
+
+.ceo-text h1 {
+    font-family: Montserrat;
+    font-size: 90px;
+    font-weight: bold;
+    color: #8B31FF;
+}
+
+.ceo-text h4 {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.ceo-text p {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.ceo-img {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ceo-img>img {
+    width: 100%;
+    height: fit-content;
+}
+
+.why-wrapper {
+    width: 100vw;
+    background-image: url("https://d335luupugsy2.cloudfront.net/cms/files/970930/1741711102/$l4duf3a1tvr");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.why-geni {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 200px;
+    gap: 25px;
+
+
+}
+
+.why-header>svg {
+    width: 100%;
+}
+
+.why-reasons {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.reasons-card>svg {
+    width: 100%;
+    height: fit-content;
+}
+
+.demonstration {
+    width: 100%;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+
+.demonstration>a>svg {
+    width: 100%;
+}
+
+.v8-footer {
+    color: #fff;
+    padding: 80px 120px;
+    width: 100vw;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-logo {
+    width: 20%;
+}
+
+.footer-content {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-column {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+}
+
+.content-column p,
+.content-column a {
+    font-size: 24px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+
+.content-column h1 {
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.content-column a:hover {
+    text-decoration: underline;
+}
+
+
+.footer-redes {
+    margin-top: 15px;
+    display: flex;
+    gap: 25px;
+    align-items: end;
+}
+
+.footer-redes img {
+    width: 50px;
+}
+
+@media screen and (max-width: 1440px) {
+    .gradient-text {
+        font-size: 100px;
+    }
+
+    .home-wave-img {
+        margin-top: -85px;
+    }
+
+    #rd-row-joq3m2vo {
+        min-width: 1300px;
+    }
+
+    .bricks--section>div {
+        max-width: 1400px;
+    }
+
+    #rd-column-joq3m2vu>div {
+        padding-right: 60px;
+    }
+
+    .bricks--section>div {
+        max-width: 1400px;
+        min-width: 1200px;
+    }
+
+    .ceo-text h1 {
+        font-size: 72px;
+    }
+
+    .ceo-text h4 {
+        font-size: 30px;
+    }
+
+    .ceo-text p {
+        font-size: 22px;
+    }
+
+}
+
+@media screen and (max-width: 1280px) {
+    .gradient-text {
+        font-size: 90px;
+    }
+
+    .home-wave-img {
+        margin-top: -75px;
+    }
+
+    .bricks--section>div {
+        max-width: 1230px;
+        min-width: 1100px;
+    }
+
+    .ia-paragraph {
+        font-size: 18px;
+    }
+
+    .ceo-text h1 {
+        font-size: 64px;
+    }
+
+    .ceo-text h4 {
+        font-size: 28px;
+    }
+
+    .ceo-text p {
+        font-size: 20px;
+    }
+
+
+}
+
+
+@media (max-width: 480px) {
+    #rd-row-m7w4knqd.bricks--row {
+        max-width: 100vh;
+        min-width: 0;
+    }
+
+
+    #rd-row-m7w4nnrd.bricks--row {
+        max-width: 100vw;
+        min-width: 0;
+    }
+
+    #rd-column-m7w4nnre {
+        flex: 12 0 0;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+}
